@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9BDAE58-F2A6-4DDB-8670-BC99E84A78AB}|KPZlab4task4\\KPZlab4task4.csproj|c:\\users\\ruset\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ztu.education\\kpzlabu\\kpzlab3\\kpzlab4task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BDAE58-F2A6-4DDB-8670-BC99E84A78AB}|KPZlab4task4\\KPZlab4task4.csproj|solutionrelative:kpzlab4task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2ACDA89-294B-4DC7-8DDA-FD7D140DEAA5}|KPZlab4task3\\KPZlab4task3.csproj|c:\\users\\ruset\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ztu.education\\kpzlabu\\kpzlab3\\kpzlab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2ACDA89-294B-4DC7-8DDA-FD7D140DEAA5}|KPZlab4task3\\KPZlab4task3.csproj|solutionrelative:kpzlab4task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab4task4\\Program.cs",
+              "RelativeDocumentMoniker": "KPZlab4task4\\Program.cs",
+              "ToolTip": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab4task4\\Program.cs",
+              "RelativeToolTip": "KPZlab4task4\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T14:38:25.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab4task3\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab4task3\\Program.cs",
               "ToolTip": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab4task3\\Program.cs",
               "RelativeToolTip": "KPZlab4task3\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAowKUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T14:22:59.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task6\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task6\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "KPZlab3task6\\Program.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAmwPoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T13:28:25.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T13:28:25.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task5\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task5\\Program.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task4\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task4\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task3\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task3\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task2\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task2\\Program.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ruset\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ZTU.education\\KPZlabu\\KPZlab3\\KPZlab3task1\\Program.cs",
               "RelativeDocumentMoniker": "KPZlab3task1\\Program.cs",

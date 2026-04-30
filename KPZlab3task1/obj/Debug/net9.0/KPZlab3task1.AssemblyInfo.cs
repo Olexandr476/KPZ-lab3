@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPZlab3task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd8c99ee65402f5262bc4e4941f18ddd814f8e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0386b4e1222c7b5a0658584d8a707df78766aa5")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPZlab3task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPZlab3task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
