@@ -1,0 +1,14 @@
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\bin\Debug\net9.0\KPZlab3task1.exe
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\bin\Debug\net9.0\KPZlab3task1.deps.json
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\bin\Debug\net9.0\KPZlab3task1.runtimeconfig.json
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\bin\Debug\net9.0\KPZlab3task1.dll
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\bin\Debug\net9.0\KPZlab3task1.pdb
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.AssemblyInfoInputs.cache
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.AssemblyInfo.cs
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.csproj.CoreCompileInputs.cache
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.dll
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\refint\KPZlab3task1.dll
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.pdb
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\KPZlab3task1.genruntimeconfig.cache
+C:\Users\ruset\OneDrive\Робочий стіл\ZTU.education\KPZlabu\KPZlab3\KPZlab3task1\obj\Debug\net9.0\ref\KPZlab3task1.dll
